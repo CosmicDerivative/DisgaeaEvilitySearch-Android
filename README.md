@@ -88,10 +88,3 @@ Key files:
 - Minimum Android version: depends on your project settings (check `minSdk` in Gradle)
 
 ---
-
-## Build & Run
-
-1. Clone the repo:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
