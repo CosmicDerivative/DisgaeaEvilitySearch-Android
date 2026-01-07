@@ -1,0 +1,18 @@
+{
+    "None": "None",
+    "Offensive": "Offensive",
+    "Defensive": "Defensive",
+    "Precision": "Precision",
+    "Evasion": "Evasion",
+    "Stat Boosting": "Stat Boosting",
+    "HP": "HP",
+    "SP": "SP",
+    "Critical": "Critical",
+    "Healing": "Healing",
+    "Ally": "Ally",
+    "Movement": "Movement",
+    "Debuffs": "Debuffs",
+    "Item": "Item",
+    "Cheat": "Cheat",
+    "Miscellaneous": "Miscellaneous"
+}
